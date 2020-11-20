@@ -1,0 +1,2 @@
+televisor,1000
+VHS,200
